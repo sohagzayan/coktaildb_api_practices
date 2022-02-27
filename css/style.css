@@ -1,0 +1,17 @@
+ul{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 10px;
+}
+
+li{
+    width: 50%;
+}
+
+span{
+    cursor: pointer !important;
+}
+
+.lodingimage{
+    display: none;
+}
